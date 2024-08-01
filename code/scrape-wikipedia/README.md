@@ -4,4 +4,4 @@ This script is designed to scrape all pages associated with Wikipedia's [Categor
 - `categories-level1.txt` – highest level of categories corresponding to broad mathematical subfields (e.g., algebra, analysis, number theory); used to interpret of URL scraping progress
 - `urls-categories-remove.txt` – output from `get_page_urls()` after excluding categories in the remove list
 
-The results of this script are saved in `wikipedia-data/wikipedia-docs.txt`, where each line is a paragraph of some page. The code also produces a [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) with extended metadata and a unique ID for each paragraph.
+The results of this notebook are saved in `wikipedia-data/wikipedia-docs.txt`, where each line is a paragraph of some page. Running the script also produces [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) with extended metadata and a unique ID for each paragraph.
