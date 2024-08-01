@@ -1,4 +1,4 @@
-This script is designed to scrape all pages associated with Wikipedia's [Category:Fields of mathematics](https://en.wikipedia.org/wiki/Category:Fields_of_mathematics) and its subcategories. The resulting documents can be used to create embeddings and add semantic context to a topic model of the Polymath projects.
+This script is designed to scrape all pages associated with Wikipedia's [Category:Fields of mathematics](https://en.wikipedia.org/wiki/Category:Fields_of_mathematics) and its subcategories. The resulting documents can be used to create embeddings and add semantic context to a Polymath topic model.
 
 To run the script, make a copy of `scrape-wikipedia.ipynb` and ensure that all files in `filtering-lists` are accessible in the Colab session. This folder contains the following text files, in order of appearance in the notebook:
 
