@@ -1,0 +1,23 @@
+polymath1 1508
+polymath2 67
+polymath3 597
+polymath4 595
+polymath5 2634
+polymath6 29
+polymath7 532
+polymath8 3504
+polymath9 105
+polymath10 361
+polymath11 680
+polymath12 217
+polymath13 306
+polymath14 336
+polymath15 1203
+polymath16 2566
+
+mini1 336
+mini2 124
+mini3 146
+mini4 81
+
+all 15924
