@@ -1,6 +1,8 @@
 # polymath-data
 
-All comments and posts scraped from the [Polymath Project](https://en.wikipedia.org/wiki/Polymath_Project), based on projects listed [here](https://web.archive.org/web/20200328143655/http://michaelnielsen.org/polymath1/index.php?title=Main_Page). Notebooks for web scraping are located in the "code" folder. This repository has the following data files:
+All comments and posts scraped from the [Polymath Project](https://en.wikipedia.org/wiki/Polymath_Project), based on projects listed [here](https://web.archive.org/web/20200328143655/http://michaelnielsen.org/polymath1/index.php?title=Main_Page). Notebooks for web scraping are located in the "code" folder. 
+
+This repository has the following data files:
 - `all-project-comments.json` – all Polymath comments up to Polymath16
   - `author`
   - `author-href`
